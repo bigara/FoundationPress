@@ -67,7 +67,7 @@ Check for Foundation Updates? Run:
   * `css/foundation.css`: All Sass files are minified and compiled to this file
   * `css/foundation.css.map`: CSS source maps
 
-### Script Folder Strucutre
+### Script Folder Structure
   
   * `bower_components/`: This is the source folder where all Foundation components are located. `foundation update` will check and update scripts in this folder.
 
